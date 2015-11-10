@@ -1,0 +1,12 @@
+﻿<Window x:Class="ImageViewer.frmView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="frmView" Height="300" Width="300"
+        WindowStyle="None" AllowsTransparency="True" Loaded="Window_Loaded" ResizeMode="CanResizeWithGrip"
+        KeyDown="Window_KeyDown" MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        >
+    <Window.Background>
+        <ImageBrush ImageSource="Images/PhotoBackground.jpg" />
+    </Window.Background>
+    <Image Name="imgMain" Source="Images/01.jpg" Stretch="Fill" Margin="0 0 0 30"/>
+</Window>

@@ -1,0 +1,15 @@
+D:\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+D:\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+D:\ImageViewer\ImageViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ImageViewer\ImageViewer\obj\x86\Debug\MainWindow.baml
+D:\ImageViewer\ImageViewer\obj\x86\Debug\MainWindow.g.cs
+D:\ImageViewer\ImageViewer\obj\x86\Debug\App.g.cs
+D:\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer_MarkupCompile.cache
+D:\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.g.resources
+D:\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.Properties.Resources.resources
+D:\ImageViewer\ImageViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ImageViewer\ImageViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.exe
+D:\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.pdb
+D:\ImageViewer\ImageViewer\obj\x86\Debug\frmView.baml
+D:\ImageViewer\ImageViewer\obj\x86\Debug\frmView.g.cs
